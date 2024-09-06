@@ -1,0 +1,12 @@
+C:\Users\magom\source\repos\Task 3\Task 3\bin\Debug\Task 3.exe.config
+C:\Users\magom\source\repos\Task 3\Task 3\bin\Debug\Task 3.exe
+C:\Users\magom\source\repos\Task 3\Task 3\bin\Debug\Task 3.pdb
+C:\Users\magom\source\repos\Task 3\Task 3\obj\Debug\Task 3.csproj.AssemblyReference.cache
+C:\Users\magom\source\repos\Task 3\Task 3\obj\Debug\Task 3.csproj.CoreCompileInputs.cache
+C:\Users\magom\source\repos\Task 3\Task 3\obj\Debug\Task 3.exe
+C:\Users\magom\source\repos\Task 3\Task 3\obj\Debug\Task 3.pdb
+C:\Users\magom\source\repos\Task 3\Task 3\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\magom\source\repos\Task 3\Task 3\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\magom\source\repos\Task 3\Task 3\obj\Debug\Task 3.csproj.Up2Date
+C:\Users\magom\source\repos\Task 3\Task 3\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\magom\source\repos\Task 3\Task 3\bin\Debug\DocumentFormat.OpenXml.xml
